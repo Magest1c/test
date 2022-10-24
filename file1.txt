@@ -1,5 +1,5 @@
 
-status commit
+status commit update
 puul bear
 123
 commit
